@@ -1,0 +1,8 @@
+C:\Users\Jose\source\repos\Tareas\Tareas\bin\Debug\Tareas.exe.config
+C:\Users\Jose\source\repos\Tareas\Tareas\bin\Debug\Tareas.exe
+C:\Users\Jose\source\repos\Tareas\Tareas\bin\Debug\Tareas.pdb
+C:\Users\Jose\source\repos\Tareas\Tareas\obj\Debug\Tareas.csproj.AssemblyReference.cache
+C:\Users\Jose\source\repos\Tareas\Tareas\obj\Debug\Tareas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\source\repos\Tareas\Tareas\obj\Debug\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Tareas\Tareas\obj\Debug\Tareas.exe
+C:\Users\Jose\source\repos\Tareas\Tareas\obj\Debug\Tareas.pdb
